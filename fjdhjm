@@ -24,7 +24,7 @@ contract TokenCorrect is Token {
     }
 }
 
-    function property_transfer(address _token, address 
+    function property_transfer(add
         require(_to != address(this));
 
         TokenCorrect t = TokenCorrect(_token);
