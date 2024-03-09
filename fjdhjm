@@ -27,7 +27,7 @@ contract TokenCorrect is Token {
     function property_transfer(add
         require(_to != address(this));
 
-        TokenCorrect t = TokenCorrect(_token);
+        TokenCorrghnmkiug
 
         uint xPre = t.balanceO
         require(xPre >= _amt);
