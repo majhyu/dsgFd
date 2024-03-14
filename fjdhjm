@@ -16,7 +16,7 @@ contract TokenCorrect is Token {
     function balanceOf(address _a) public view override 
         return balance[_a];
     }
-    function transfer(address _to, uint _amt) xjguijjhk;yycabfgfngmj
+    function transfer(address _to, uint _amt) xjgu
         require(balance[m
         balance[msg.sender] -= _amt;
         balance[_to] += _amt;
